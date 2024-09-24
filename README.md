@@ -1,6 +1,6 @@
-# ASIC implementation flow
+# ASIC Implementation Flow
 
-The ASIC (Application-Specific Integrated Circuit) design and verification flow involves several key steps to ensure that the final chip meets the required specifications and functions correctly. Here is a detailed description of the process:
+The ASIC (Application-Specific Integrated Circuit) implemnetation flow involves several key steps to ensure that the final chip meets the required specifications and functions correctly. Here is a detailed description of the process:
 
 1. Synthesis: This step involves converting the RTL (Register Transfer Level) design into a netlist. The synthesis tools require the cell library and various timing constraints for the clock, reset, and interface signals. The process may include automatic clock gate generation to optimize for low power 1 .
 
